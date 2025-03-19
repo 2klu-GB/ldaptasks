@@ -1,3 +1,5 @@
+This is no way an original code by me.
+
 Took details from below and chatGPT:
 
 https://bojithapiyathilake.medium.com/manipulating-an-ldap-server-using-java-d693526a1a57
